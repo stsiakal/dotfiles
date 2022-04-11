@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = spiros.tsiakalos1@gmail.com
+	name = Spiros Tsiakalos
